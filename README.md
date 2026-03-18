@@ -21,30 +21,30 @@ This is a curated directory of the best Python resources for every stage of your
 
 ## Who Is This For?
 
-- **Beginners** — Writing their first lines of Python
-- **Web Developers** — Building backends with Django, FastAPI, or Flask
-- **Data Scientists** — Wrangling data with Pandas, NumPy, and Matplotlib
-- **ML Engineers** — Training and deploying models with PyTorch and scikit-learn
-- **DevOps / SREs** — Automating infrastructure and scripting workflows
-- **Competitive Programmers** — Solving problems efficiently in Python
+- **Beginners** → Writing their first lines of Python
+- **Web Developers** → Building backends with Django, FastAPI, or Flask
+- **Data Scientists** → Wrangling data with Pandas, NumPy, and Matplotlib
+- **ML Engineers** → Training and deploying models with PyTorch and scikit-learn
+- **DevOps / SREs** → Automating infrastructure and scripting workflows
+- **Competitive Programmers** → Solving problems efficiently in Python
 - **Anyone** who wants to write cleaner, faster, more Pythonic code
 
 ---
 
 ## What's Inside?
 
-- **Roadmaps** — Step-by-step learning paths by role and goal
-- **Books** — From beginner primers to advanced internals
-- **Courses & Videos** — Free and paid learning resources
-- **Core Language** — Deep dives into Python's internals and features
-- **Web Development** — Frameworks, ORMs, authentication, and APIs
-- **Data Science & ML** — Libraries, notebooks, and pipelines
-- **Scripting & Automation** — File handling, CLI tools, and task runners
-- **Testing** — Unit tests, integration tests, and coverage tools
-- **Performance & Profiling** — Speed up your Python code
-- **Packaging & Deployment** — Ship Python projects the right way
-- **Tools & Extensions** — IDEs, linters, formatters, and type checkers
-- **Communities** — Where Pythonistas hang out
+- **Roadmaps** → Step-by-step learning paths by role and goal
+- **Books** → From beginner primers to advanced internals
+- **Courses & Videos** → Free and paid learning resources
+- **Core Language** → Deep dives into Python's internals and features
+- **Web Development** → Frameworks, ORMs, authentication, and APIs
+- **Data Science & ML** → Libraries, notebooks, and pipelines
+- **Scripting & Automation** → File handling, CLI tools, and task runners
+- **Testing** → Unit tests, integration tests, and coverage tools
+- **Performance & Profiling** → Speed up your Python code
+- **Packaging & Deployment** → Ship Python projects the right way
+- **Tools & Extensions** → IDEs, linters, formatters, and type checkers
+- **Communities** → Where Pythonistas hang out
 
 ---
 
