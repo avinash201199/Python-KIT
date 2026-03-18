@@ -2,8 +2,6 @@
 
 > A curated collection of essential resources, libraries, tools, courses, and playbooks to help you master Python — from writing your first script to building production-grade systems.
 
-**GitHub Description:** `A curated collection of resources, libraries, tools, and roadmaps to help you go from Python beginner to production-ready developer.`
-
 [![GitHub stars](https://img.shields.io/github/stars/avinash201199/Python-KIT?style=social)](https://github.com/avinash201199/Python-KIT)
 [![GitHub forks](https://img.shields.io/github/forks/avinash201199/Python-KIT?style=social)](https://github.com/avinash201199/Python-KIT/network)
 [![GitHub watchers](https://img.shields.io/github/watchers/avinash201199/Python-KIT?style=social)](https://github.com/avinash201199/Python-KIT/watchers)
