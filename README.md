@@ -1,6 +1,6 @@
 # Python Kit ⚙️
 
-> A curated collection of essential resources, libraries, tools, courses, and playbooks to help you master Python — from writing your first script to building production-grade systems.
+> A curated collection of essential resources, libraries, tools, courses, and playbooks to help you master Python, from writing your first script to building production-grade systems.
 
 [![GitHub stars](https://img.shields.io/github/stars/avinash201199/Python-KIT?style=social)](https://github.com/avinash201199/Python-KIT)
 [![GitHub forks](https://img.shields.io/github/forks/avinash201199/Python-KIT?style=social)](https://github.com/avinash201199/Python-KIT/network)
@@ -15,7 +15,7 @@
 
 Learning Python is easy. Mastering it is a different story.
 
-This is a curated directory of the best Python resources for every stage of your journey — from syntax basics to async systems, from data science to web backends, from scripting to deploying scalable APIs. Whether you're a complete beginner, a developer switching stacks, or a professional sharpening your craft, you'll find books, courses, libraries, tools, and communities for every level.
+This is a curated directory of the best Python resources for every stage of your journey, from syntax basics to async systems, from data science to web backends, from scripting to deploying scalable APIs. Whether you're a complete beginner, a developer switching stacks, or a professional sharpening your craft, you'll find books, courses, libraries, tools, and communities for every level.
 
 ---
 
